@@ -6,7 +6,7 @@ O wings that burn eternally, carry me beyond the dust and burdens of the mortal 
 
 The Stargazer Project is a worldbuilding project centered on **The Starwood (星間林地)**, a fictional super-habitable planet in the Kepler-452b system. It lies about 1,400 light-years from Earth in the direction of Cygnus and orbits a G-type main-sequence star.
 
-The setting runs to roughly one million characters and covers nine continents, thirty-three nations and political entities, a history, a currency system, international organizations, technology, beliefs, and the Starwood Calendar. In the story, the present year is 5501.
+The heart of the project is the full manuscript, which runs to about one million characters and covers nine continents, thirty-three nations and political entities, a history, a currency system, international organizations, technology, beliefs, and the Starwood Calendar. In the story, the present year is 5501.
 
 The long-term goal is an open, high-quality worldbuilding foundation. Any company, organization, or individual should be able to use it for free, including for commercial work and fan creations, with attribution as the only requirement.
 
@@ -32,5 +32,7 @@ The long-term goal is an open, high-quality worldbuilding foundation. Any compan
 ## Status
 
 This is a graduation project at HAL (class of 2028) by YANYONG. Only the frontend exists so far; the backend and further content are planned next.
+
+The full manuscript is not published in full yet. The website presents a curated selection, and more will be released step by step.
 
 All rights are currently reserved. The pages opt out of search indexing and AI training (`noindex, nofollow, noai, noimageai`). A formal open license is planned for the future.
